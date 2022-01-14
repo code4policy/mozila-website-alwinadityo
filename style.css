@@ -35,6 +35,9 @@ font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high 
 font-family: "Open Sans", sans-serif
 .
 
-
-
-
+.quote{
+	color: red;
+}
+#mainquote{
+	border: solid;
+}
